@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **suman@paperpainter.com**
 
-- 📄 Know about my experiences [https://sumanmalikrepo.vercel.app/](https://suman.paperpainter.com)
+- 📄 Know about my experiences [https://sumanmalikrepo.vercel.app/](https://suman.paperpainter.com/)
 
 - ⚡ Fun fact **Now I am EXPLORING CODEs!!!**
 
