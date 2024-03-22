@@ -13,7 +13,7 @@
 
 - 👯 I’m collaborating on DIET College Student Website **DIET (Private)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/suman-malik-repo](https://github.com/suman-malik-repo)
+- 👨‍💻 All of my projects are available at [https://github.com/suman-malik-repo](https://github.com/suman-malik-repo/)
 
 - 📝 I regularly write articles on [https://www.paperpainter.com/](https://www.paperpainter.com/)
 
