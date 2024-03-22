@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/suman-malik-repo](https://github.com/suman-malik-repo)
 
-- 📝 I regularly write articles on [https://www.paperpainter.com/](https://www.paperpainter.com/)
+- 📝 I regularly write articles on [https://www.paperpainter.com/](https://www.paperpainter.com)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, NODE, Express, Docker, LINUX**
 
