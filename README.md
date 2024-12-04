@@ -45,5 +45,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman-malik-repo&" alt="suman-malik-repo" /></p>
 
-
-
