@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suman Malik (Repo)</h1>
 <h3 align="center">A passionate Node.js BackEnd developer from India</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman-malik-repo&label=Profile%20views&color=0e75b6&style=flat" alt="suman-malik-repo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suman-malik-repo" alt="suman-malik-repo" /></a> </p>
