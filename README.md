@@ -1,47 +1,167 @@
-<h1 align="center">Hi 👋, I'm Suman Malik (Repo)</h1>
-<h3 align="center">A passionate Node.js BackEnd developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suman-malik-repo&label=Profile%20views&color=0e75b6&style=flat" alt="suman-malik-repo" /> </p>
+# Hi, I'm Suman Malik Repo 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suman-malik-repo" alt="suman-malik-repo" /></a> </p>
+### Full-Stack Developer • Product Builder • Backend & Cloud Engineer
 
-<p align="left"> <a href="https://twitter.com/sumanmalikrepo" target="blank"><img src="https://img.shields.io/twitter/follow/sumanmalikrepo?logo=twitter&style=for-the-badge" alt="sumanmalikrepo" /></a> </p>
+I build production-focused web, mobile, PWA, backend, automation, and cloud systems — with a strong focus on **JavaScript, Node.js, React, Cloudflare, Firebase, scalable APIs, and real-world products**.
 
-- 🔭 I’m currently working on **Paper Painter (Private)**
+[![Portfolio](https://img.shields.io/badge/Portfolio-suman.paperpainter.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://suman.paperpainter.com)
+[![GitHub](https://img.shields.io/badge/GitHub-suman--malik--repo-181717?style=for-the-badge&logo=github)](https://github.com/suman-malik-repo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suman_Malik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-malik-repo/)
+[![Email](https://img.shields.io/badge/Email-suman%40paperpainter.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suman@paperpainter.com)
 
-- 🌱 I’m currently learning **React.js**
+![Profile Views](https://komarev.com/ghpvc/?username=suman-malik-repo&label=Profile%20Views&color=0e75b6&style=flat-square)
 
-- 👯 I’m collaborating on DIET College Student Website **DIET (Private)**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/suman-malik-repo](https://github.com/suman-malik-repo)
+---
 
-- 📝 I regularly write articles on [https://www.paperpainter.com](https://www.paperpainter.com)
+## 👨‍💻 About Me
 
-- 💬 Ask me about **HTML, CSS, JavaScript, NODE, Express, Docker, LINUX**
+- 🎓 **B.Tech Computer Science & Engineering student** at DIET under MAKAUT.
+- 💻 **Full-Stack Developer & Product Builder** focused on building complete products rather than isolated demos.
+- 🚀 Currently building and evolving products including **QuiqVeg**, **OgenSync**, **Medik**, and **Paper Painter**.
+- 🏥 Working on software and platform development in the **healthcare ecosystem**, including HealthHepta projects.
+- 📱 Building across **Web, PWA, React Native mobile apps, and Electron desktop apps**.
+- ☁️ Designing **Cloudflare-first architectures** using Workers, D1, R2, KV, Durable Objects, Queues, caching, and edge APIs.
+- 🔐 Interested in **authentication, authorization, RBAC, JWT, realtime systems, background sync, API security, distributed systems, and scalable SaaS architecture**.
+- 📈 I also work on the business side of products — **growth, operations, monetization, automation, analytics, and product strategy**.
+- 🧠 Currently going deeper into **React Native, distributed systems, Cloudflare infrastructure, system design, and advanced frontend/backend architecture**.
+- 💬 Ask me about **JavaScript, Node.js, Express.js, React, Next.js, APIs, Firebase, Cloudflare, Docker, Linux, Git/GitHub, PWA, and backend architecture**.
+- 📫 Reach me at **[suman@paperpainter.com](mailto:suman@paperpainter.com)**.
 
-- 📫 How to reach me **suman@paperpainter.com**
+---
 
-- 📄 Know about my experiences [https://suman.paperpainter.com](https://suman.paperpainter.com)
+## 🚀 Products & Projects
 
-- ⚡ Fun fact **Now I am EXPLORING CODEs!!!**
+| Project | What I’m Building |
+|---|---|
+| **QuiqVeg** | Hyperlocal commerce platform for groceries, restaurant food, delivery operations, and **QuiqMeals** scheduled meals. |
+| **OgenSync** | Messaging, automation, API, notification, analytics, and infrastructure tooling. |
+| **Medik** | Advanced pharmacy billing, inventory, multi-store management, role-based SaaS, and multi-device platform. |
+| **Paper Painter** | Technology, business, content, and product ecosystem. |
+| **HealthHepta** | Healthcare software development, role-based applications, PWA workflows, realtime features, and platform engineering. |
+| **DIET** | College-focused student website and digital platform collaboration. |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sumanmalikrepo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sumanmalikrepo" height="30" width="40" /></a>
-<a href="https://dev.to/sumanmalikrepo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/sumanmalikrepo" height="30" width="40" /></a>
-<a href="https://twitter.com/sumanmalikrepo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumanmalikrepo" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/suman-malik-repo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suman-malik-repo" height="30" width="40" /></a>
-<a href="https://www.facebook.com/suman.malik.repo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/suman.malik.repo" height="30" width="40" /></a>
-<a href="https://instagram.com/suman.malik.repo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suman.malik.repo" height="30" width="40" /></a>
-<a href="https://medium.com/@suman-malik-repo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@suman-malik-repo" height="30" width="40" /></a>
+> Many of my active product repositories are private because they contain production code, infrastructure, or business logic.
+
+---
+
+## 🛠️ Technology Stack
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Mobile & Desktop
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suman-malik-repo&show_icons=true&locale=en&layout=compact" alt="suman-malik-repo" /></p>
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suman-malik-repo&show_icons=true&locale=en" alt="suman-malik-repo" /></p>
+### Backend & Realtime
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman-malik-repo&" alt="suman-malik-repo" /></p>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
 
+### Cloud, Infrastructure & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### Databases & Storage
+
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 🎯 What I Focus On
+
+```text
+Product Engineering      ████████████████████
+Backend & APIs           ████████████████████
+Cloud / Serverless       ███████████████████░
+Web & PWA                ███████████████████░
+System Architecture      ██████████████████░░
+Mobile Development       ████████████████░░░░
+DevOps & Automation      ████████████████░░░░
+Business & Product Ops   █████████████████░░░
+```
+
+I enjoy turning an idea into a complete system: **architecture → backend → frontend → deployment → monitoring → operations → growth**.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=suman-malik-repo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman-malik-repo&layout=compact&hide_border=true&langs_count=8" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=suman-malik-repo&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-malik-repo/)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SumanMalikRepo)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suman.malik.repo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://suman.paperpainter.com)
+[![Paper Painter](https://img.shields.io/badge/Paper_Painter-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.paperpainter.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suman@paperpainter.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### Building products. Learning continuously. Shipping real systems.
+
+**Explore my repositories → [github.com/suman-malik-repo](https://github.com/suman-malik-repo)**
+
+</div>
