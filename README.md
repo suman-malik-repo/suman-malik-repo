@@ -32,7 +32,7 @@ I work across the full engineering lifecycle:
 
 My work spans **hyperlocal commerce, automation, healthcare software, developer infrastructure, realtime systems, and business platforms**.
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **DIET under MAKAUT**
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **Domkal Institute of Engineering and Technology under MAKAUT**
 - 🚀 Building and evolving **QuiqVeg, OgenSync, and Medik**
 - ⚙️ Strongly focused on **JavaScript, Node.js, backend engineering, APIs, and system design**
 - ☁️ Building with **Cloudflare Workers, D1, R2, KV, Durable Objects, Queues, and edge APIs**
